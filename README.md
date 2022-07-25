@@ -8,7 +8,7 @@ HTML, CSS, JS
 
 ## Check the full-functioning site at: https://0xkiichiro.github.io/parallax-website/
 
-![](https://github.com/0xkiichiro/parallax-website/blob/main/Animation.gif)
+![]((https://github.com/0xkiichiro/parallax-website/blob/master/Animation.gif))
 
 ## Comments
 
