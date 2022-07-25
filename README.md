@@ -2,6 +2,10 @@
 
 Basic parallax website to understand how it's made. This is a code along project.
 
+# Technologies used
+
+HTML, CSS, JS
+
 ## Check the full-functioning site at: https://0xkiichiro.github.io/parallax-website/
 
 ![](https://github.com/0xkiichiro/parallax-website/blob/main/Animation.gif)
